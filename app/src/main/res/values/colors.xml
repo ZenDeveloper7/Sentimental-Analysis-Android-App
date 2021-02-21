@@ -8,6 +8,10 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="colorPrimary">#191E71</color>
+    <color name="colorPrimary">#17C1F3</color>
     <color name="text_color">#49494A</color>
+    <color name="positiveColor">#00F932</color>
+    <color name="negativeColor">#F10707</color>
+    <color name="neutralColor">#115FBF</color>
+    <color name="editTextBgColor">#F8F8F8</color>
 </resources>

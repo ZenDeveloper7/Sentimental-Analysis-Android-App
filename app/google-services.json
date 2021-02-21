@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457092051748",
+    "project_id": "sentimental-analysis-64444",
+    "storage_bucket": "sentimental-analysis-64444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457092051748:android:e57e5192264535704a39b1",
+        "android_client_info": {
+          "package_name": "com.zen.sentimentanalysis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457092051748-tghm7tbd6c5bma1fsfu4co5dvt9rlod0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNpllnMkdjf-8B6aCw1sQjuXxCfPc2_ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457092051748-tghm7tbd6c5bma1fsfu4co5dvt9rlod0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -9,8 +9,7 @@ interface Api {
 
     @GET("sentiment")
     suspend fun getSentimentAnalysis(
-        @Query("text") text: String,
-        @Query("mode") mode: String
+        @Query("text") text: String
     ): Response<SentimentalAnalysisReport>
 
 
